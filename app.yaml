@@ -1,0 +1,4 @@
+# see https://cloud.google.com/appengine/docs/flexible/nodejs/configuring-your-app-with-app-yaml for more info
+
+runtime: nodejs
+env: flex
